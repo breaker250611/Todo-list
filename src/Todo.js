@@ -57,7 +57,7 @@ const Todo = () => {
     <>
       <div className="grid justify-center">
         <h2 className="text-center text-black-500 font-bold text-4xl m-6 ml-0">
-          TODO LIST
+          Day Planner
         </h2>
         <div>
           <input
