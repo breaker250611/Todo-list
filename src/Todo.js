@@ -62,7 +62,7 @@ const Todo = () => {
         <div>
           <input
             type="text"
-            placeholder="✍ ADD  YOUR ITEM"
+            placeholder="✍ ADD  YOUR Task"
             className="outline-none w-96 h-10"
             value={data}
             onChange={(e) => setData(e.target.value)}
